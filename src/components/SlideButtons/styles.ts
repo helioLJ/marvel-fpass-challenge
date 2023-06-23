@@ -18,4 +18,8 @@ export const Container = styled.div`
   .redball {
     background-color: red;
   }
+
+  @media (max-width: 768px) {
+    margin-top: 70px;
+  }
 `

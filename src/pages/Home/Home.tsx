@@ -25,7 +25,7 @@ export default function Home() {
     setTimeout(() => {
       setSlide((prevSlide) => (prevSlide + 1) % slides.length)
       SlideImages()
-    }, 3000)
+    }, 6000)
   }
 
   useEffect(() => {
