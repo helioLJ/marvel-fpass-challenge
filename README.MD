@@ -2,15 +2,11 @@
 
 Technical test carried out for the Frontend Developer vacancy at Fpass.
 
-This application consumes the [Marvel](https://developer.marvel.com/)
+This application consumes the [Marvel](https://developer.marvel.com/) API
 
 ## Demonstration
 
 ![gife](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYms0NTZhNDltcHVsNWpnbjNlc21lbW9tdm8xbGIydXFqa25sbDBhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VqBYuHQbzORNASOVOd/giphy.gif)
-
-<p>
-  <iframe src="https://giphy.com/embed/VqBYuHQbzORNASOVOd" width="480" height="237" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/VqBYuHQbzORNASOVOd">via GIPHY</a></p>
-</p>
 
 ## Stack
 
