@@ -6,8 +6,11 @@ This application consumes the [Marvel](https://developer.marvel.com/)
 
 ## Demonstration
 
-![gife](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5mb3NsNzN4NmFobml6cjc3YWNidXB1bDgxZmttZ241czB5OTA5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/adFtFJA805HAeGX4LW/giphy.gif)
-![gife](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5mb3NsNzN4NmFobml6cjc3YWNidXB1bDgxZmttZ241czB5OTA5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/adFtFJA805HAeGX4LW/giphy.gif)
+![gife](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYms0NTZhNDltcHVsNWpnbjNlc21lbW9tdm8xbGIydXFqa25sbDBhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VqBYuHQbzORNASOVOd/giphy.gif)
+
+<p>
+  <iframe src="https://giphy.com/embed/VqBYuHQbzORNASOVOd" width="480" height="237" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/VqBYuHQbzORNASOVOd">via GIPHY</a></p>
+</p>
 
 ## Stack
 
