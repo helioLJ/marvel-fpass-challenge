@@ -1,45 +1,47 @@
 # Marvel Heroes (Fpass Challenge) 💻
 
-Teste técnico realizado para a vaga de Desenvolvedor Frontend na Fpass.
+Technical test carried out for the Frontend Developer vacancy at Fpass.
 
-Esta aplicação consome a API da [Marvel](https://developer.marvel.com/)
+This application consumes the [Marvel](https://developer.marvel.com/)
 
+## Demonstration
 
-## Stack utilizada
+![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5mb3NsNzN4NmFobml6cjc3YWNidXB1bDgxZmttZ241czB5OTA5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/adFtFJA805HAeGX4LW/giphy.gif)
+
+## Stack
 
 
 **ReactJS, TypeScript e Styled Components**
 
 
-## Rodando localmente
+## Running Locally
 
-
-Clone o projeto
+Clone
 
 ```bash
   git clone https://github.com/helioLJ/marvel-fpass-challenge
 ```
 
-Entre no diretório do projeto
+Change to directory folder
 
 ```bash
   cd marvel-fpass-challenge
 ```
 
-Instale as dependências
+Install dependencies
 
 ```bash
   npm install
 ```
 
-Inicie o servidor
+Run the server
 
 ```bash
   npm run dev
 ```
 
 
-## Figma do Projeto
+## Figma created by me
 
 
 [Figma](https://www.figma.com/file/J2ug4GCWxlesZQwdEVRWVB/Marvel-Fpass-Challenge?type=design&node-id=16%3A303&mode=design&t=JIW8BsOnlHzf0gae-1)
