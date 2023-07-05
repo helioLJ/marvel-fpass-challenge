@@ -6,7 +6,8 @@ This application consumes the [Marvel](https://developer.marvel.com/)
 
 ## Demonstration
 
-![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5mb3NsNzN4NmFobml6cjc3YWNidXB1bDgxZmttZ241czB5OTA5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/adFtFJA805HAeGX4LW/giphy.gif)
+![gife](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5mb3NsNzN4NmFobml6cjc3YWNidXB1bDgxZmttZ241czB5OTA5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/adFtFJA805HAeGX4LW/giphy.gif)
+![gife](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5mb3NsNzN4NmFobml6cjc3YWNidXB1bDgxZmttZ241czB5OTA5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/adFtFJA805HAeGX4LW/giphy.gif)
 
 ## Stack
 
